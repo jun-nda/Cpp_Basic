@@ -22,6 +22,7 @@ add_subdirectory(${PROJECT_SOURCE_DIR}/source/lambda)
 add_subdirectory(${PROJECT_SOURCE_DIR}/source/log)
 add_subdirectory(${PROJECT_SOURCE_DIR}/source/oop)
 add_subdirectory(${PROJECT_SOURCE_DIR}/source/shared_ptr)
+add_subdirectory(${PROJECT_SOURCE_DIR}/source/shared_from_this)
 add_subdirectory(${PROJECT_SOURCE_DIR}/source/separating_Axis_Theorem)
 
 add_subdirectory(${PROJECT_SOURCE_DIR}/source/singleInlineAllocator)
