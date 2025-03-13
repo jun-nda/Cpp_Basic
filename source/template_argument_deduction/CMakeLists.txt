@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.16)
+project(Template_argument_deduction)
+
+add_executable(Template_argument_deduction template_argument_deduction.cpp)

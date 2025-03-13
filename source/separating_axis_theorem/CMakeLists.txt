@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.16)
+project(Separating_axis_theorem)
+
+add_executable(Separating_axis_theorem separating_axis_theorem.cpp)
